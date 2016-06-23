@@ -1,6 +1,0 @@
-C:\Workspace\CSharp-Practice-Cases\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-C:\Workspace\CSharp-Practice-Cases\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-C:\Workspace\CSharp-Practice-Cases\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Workspace\CSharp-Practice-Cases\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\Workspace\CSharp-Practice-Cases\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-C:\Workspace\CSharp-Practice-Cases\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
